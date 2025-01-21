@@ -6,10 +6,15 @@
 ## About me 🙋‍♂️
 I'm from Palestine. I'm currently studying AI at PTUK 🎓.
 I'm trying to learn new things every day and improve my skills in various fields. 
-I like Video games, swimming, watching movies/series and spending good time with friends and family!.
+I like Video games 🎮, swimming 🏊‍♂️, watching movies/series 🎬 and spending good time with friends and family!.
 
 ## 🌱 I’m currently learning
-Learning HTML/CSS and JavaScript to eventually learn React.
+Learning HTML/CSS and JavaScript to eventually learn React.  
+
+And trying to learn
+
+[![Czech flag](Czech1.png)](https://www.duolingo.com/profile/krypton5111)
+
 
 
 <!--
