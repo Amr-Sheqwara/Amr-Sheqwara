@@ -3,12 +3,12 @@
 [![instagram profile link](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/amr_sheqwara_)
 [![X profile link](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/amr_sheqwara_)
 
-## About me 🙋‍♂️
+## • About me 🙋‍♂️
 I'm from Palestine. I'm currently studying AI at PTUK 🎓.
 I'm trying to learn new things every day and improve my skills in various fields. 
 I like Video games 🎮, swimming 🏊‍♂️, watching movies/series 🎬 and spending good time with friends and family!.
 
-## I’m currently learning 🌱
+## • I’m currently learning 🌱
 Learning HTML/CSS and JavaScript to eventually learn React.  
 
 And trying to learn
