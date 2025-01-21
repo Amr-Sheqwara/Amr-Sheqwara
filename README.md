@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there 👋, my name is Amr Sheqwara
+[![LinkedIn profile link](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amr-sheqwara-636600326)
+[![instagram profile link](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/amr_sheqwara_)
+[![X profile link](https://img.shields.io/badge/.com-000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/amr_sheqwara_)
+
+
 
 <!--
 **Amr-Sheqwara/Amr-Sheqwara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
