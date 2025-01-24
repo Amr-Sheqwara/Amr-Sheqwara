@@ -3,10 +3,12 @@
 [![instagram profile link](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/amr_sheqwara_)
 [![X profile link](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/amr_sheqwara_)
 
+
 ## • About me 🙋‍♂️
 I'm from Palestine. I'm currently studying AI at PTUK 🎓.
 I'm trying to learn new things every day and improve my skills in various fields. 
 I like Video games 🎮, swimming 🏊‍♂️, watching movies/series 🎬 and spending good time with friends and family!.
+
 
 ## • I’m currently learning 🌱
 Learning HTML/CSS and JavaScript to eventually learn React.  
@@ -16,6 +18,9 @@ And trying to learn
 [![Czech flag](Czech1.png)](https://www.duolingo.com/profile/krypton5111)
 
 
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=Amr-Sheqwara&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amr-Sheqwara&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 <!--
 **Amr-Sheqwara/Amr-Sheqwara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
