@@ -40,12 +40,14 @@ I like Video games 🎮, swimming 🏊‍♂️, watching movies/series 🎬 and
 Learning HTML/CSS and JavaScript to eventually learn React.  
 
  <details align="center">
-<summary><h2>My GitHub Stats <img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDA4NHBhN2lwbjdsbW12bDF5NHhoMTI2aXlwdGl2emk5dXJqMTZ0eCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/KZ5vbaMeeX67dQn5qU/giphy.gif' width='32'></h2></summary>
+<summary><h2>My GitHub Stats <img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDA4NHBhN2lwbjdsbW12bDF5NHhoMTI2aXlwdGl2emk5dXJqMTZ0eCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/KZ5vbaMeeX67dQn5qU/giphy.gif' width='32'></h2>
+</summary>
+  
 <table>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=Amr-Sheqwara&count_private=true&theme=dark&hide_border=true" alt = "Amr's Contribution" width = 400 >
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=Amr-Sheqwara&theme=dark&hide_border=true" alt = "Amr's Rating" width = 440 >
-       <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Amr-Sheqwara&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt = "Amr's Rating" width = 400 >
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Amr-Sheqwara&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt =     "Amr's Rating" width = 400 >
   <img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amr-Sheqwara&theme=dark" alt = "Eyab0's profile Summary" width = 750 >
 </p>
 </table>
