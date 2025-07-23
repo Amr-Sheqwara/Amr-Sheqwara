@@ -11,7 +11,7 @@ I like Video games 🎮, swimming 🏊‍♂️, watching movies/series 🎬 and
 <h2>• Let's Connect <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70"></h2> 
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amr_sheqwara_) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amr-sheqwara-636600326/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amr-sheqwara) 
 [![X](https://img.shields.io/badge/-black.svg?logo=X&logoColor=white)](https://x.com/amr_sheqwara_) 
 
 
