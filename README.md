@@ -45,7 +45,6 @@ Learning HTML/CSS and JavaScript to eventually learn React.
   
 <table>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Amr-Sheqwara&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt =     "Amr's Rating" width = 400 >
   <img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amr-Sheqwara&theme=dark" alt = "Eyab0's profile Summary" width = 750 >
 </p>
 </table>
