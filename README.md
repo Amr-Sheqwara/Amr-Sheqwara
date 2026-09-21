@@ -33,11 +33,6 @@ I like Video games 🎮, swimming 🏊‍♂️, watching movies/series 🎬 and
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 
-
-
-<h2>• I’m currently learning 🌱</h2>
-Learning HTML/CSS and JavaScript to eventually learn React.  
-
  <details align="center">
 <summary><h2>My GitHub Stats <img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDA4NHBhN2lwbjdsbW12bDF5NHhoMTI2aXlwdGl2emk5dXJqMTZ0eCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/KZ5vbaMeeX67dQn5qU/giphy.gif' width='32'></h2>
 </summary>
